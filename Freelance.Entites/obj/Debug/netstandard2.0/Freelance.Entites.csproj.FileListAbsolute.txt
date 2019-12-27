@@ -1,0 +1,5 @@
+C:\Users\Murad\source\repos\Freelance.WebUI\Freelance.Entites\bin\Debug\netstandard2.0\Freelance.Entites.deps.json
+C:\Users\Murad\source\repos\Freelance.WebUI\Freelance.Entites\bin\Debug\netstandard2.0\Freelance.Entites.dll
+C:\Users\Murad\source\repos\Freelance.WebUI\Freelance.Entites\obj\Debug\netstandard2.0\Freelance.Entites.csprojAssemblyReference.cache
+C:\Users\Murad\source\repos\Freelance.WebUI\Freelance.Entites\obj\Debug\netstandard2.0\Freelance.Entites.AssemblyInfoInputs.cache
+C:\Users\Murad\source\repos\Freelance.WebUI\Freelance.Entites\obj\Debug\netstandard2.0\Freelance.Entites.AssemblyInfo.cs
